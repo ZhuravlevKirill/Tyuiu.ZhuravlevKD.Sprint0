@@ -1,6 +1,0 @@
-/Users/kirillzuravlev/RiderProjects/Tyuiu.ZhuravlevKD.Sprint0/Task1/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0/bin/Debug/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0.exe
-/Users/kirillzuravlev/RiderProjects/Tyuiu.ZhuravlevKD.Sprint0/Task1/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0/bin/Debug/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0.pdb
-/Users/kirillzuravlev/RiderProjects/Tyuiu.ZhuravlevKD.Sprint0/Task1/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0/obj/Debug/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0.csproj.AssemblyReference.cache
-/Users/kirillzuravlev/RiderProjects/Tyuiu.ZhuravlevKD.Sprint0/Task1/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0/obj/Debug/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0.csproj.CoreCompileInputs.cache
-/Users/kirillzuravlev/RiderProjects/Tyuiu.ZhuravlevKD.Sprint0/Task1/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0/obj/Debug/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0.exe
-/Users/kirillzuravlev/RiderProjects/Tyuiu.ZhuravlevKD.Sprint0/Task1/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0/obj/Debug/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0.pdb
