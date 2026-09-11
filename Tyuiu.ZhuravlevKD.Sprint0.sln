@@ -1,8 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZhuravlevKD.Sprint0.Task0.V0", "Tyuiu.ZhuravlevKD.Sprint0.Task0.V0/Tyuiu.ZhuravlevKD.Sprint0.Task0.V0.csproj", "{F1769CCD-B5E2-425E-A1A6-F91E1770F210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ZhuravlevKD.Sprint0.Task1.V0", "Tyuiu.ZhuravlevKD.Sprint0.Task1.V0/Tyuiu.ZhuravlevKD.Sprint0.Task1.V0.csproj", "{DFFBFAAF-5529-4891-8415-79B52294649C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1769CCD-B5E2-425E-A1A6-F91E1770F210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1769CCD-B5E2-425E-A1A6-F91E1770F210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1769CCD-B5E2-425E-A1A6-F91E1770F210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1769CCD-B5E2-425E-A1A6-F91E1770F210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFBFAAF-5529-4891-8415-79B52294649C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFBFAAF-5529-4891-8415-79B52294649C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFBFAAF-5529-4891-8415-79B52294649C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFBFAAF-5529-4891-8415-79B52294649C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
